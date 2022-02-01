@@ -1,6 +1,7 @@
+/*
 Swin Transformer Assisted Prior Attention Network for Medical Image Segmentation
 
-用于医学图像分割的Swin变换器辅助的先验注意网络
+用于医学图像分割的Swin Transformer辅助的先验注意网络
 
 
 Transformer completement convolutional neural network (CNN) has achieved better performance than improved CNNbased methods. Especially, Transformer is utilized to be combined with U-shaped structure, skip-connections, encoder and 
@@ -14,3 +15,4 @@ network for accurate and automatic medical image segmentation. The experimental 
 在中间监督网络中应用Swin Transformer的基于窗口的自我注意机制，称为先注意网络。我们还提出了一个新的基于CCA的增强型注意力块，以聚合来自跳过连接和先前注意力网络的特征，并进一步细化边界细节。Swin-PANet解决了以下两难问题 
 变形器注意力学习能够使用先前的边界信息，而其可解释性差。因此，由Swin Transformer辅助的中间监督网络提供了更好的注意力学习和可解释性。
 该网络用于准确和自动的医学图像分割。实验结果评估了其有效性，在两个著名的医学分割任务中一直优于最先进的方法。
+*/
