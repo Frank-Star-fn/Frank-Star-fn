@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Frank-Star-fn&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_title=true&hide_border=true">
+
+
 👋 Hi, I’m @Frank-Star-fn.Nice to meet you in GitHub.
 <br>
 👀 I enjoy programming and exploring new things.
