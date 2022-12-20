@@ -8,7 +8,7 @@
 🌱 I’m currently studying computer science.
 
 ### Research/learning direction
-Computer Vision(Image segmentation, target detection, image classification, attention mechanism, etc)
+Computer Vision(Image Segmentation, Object Detection, Image Classification, Attention Mechanism, etc)
 <br>
 Algorithm Competition
 
