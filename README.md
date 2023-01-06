@@ -1,13 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Frank-Star-fn&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_title=true&hide_border=true">
 
-
 👋 Hi, I’m @Frank-Star-fn. Nice to meet you in GitHub!
 <br>
 👀 I enjoy programming and exploring new things.
 <br>
 🌱 I’m currently studying computer science.
 
-### Research/learning direction
+## Research/learning direction
 Computer Vision(Image Segmentation, Object Detection, Image Classification, Attention Mechanism, etc)
 <br>
 Algorithm Competition
@@ -20,10 +19,18 @@ Algorithm Competition
 <br>
 🌱 目前正在学习计算机科学
 
-### 研究/学习方向
+## 研究/学习方向
 计算机视觉(图像分割，目标检测，图像分类，注意力机制等)
 <br>
 算法竞赛
+
+## 我的常用社交媒体账号
+
+github：https://github.com/Frank-Star-fn
+
+CSDN：https://blog.csdn.net/weixin_51937688
+
+b站：https://space.bilibili.com/102536071
 
 <!---
 Frank-Star-fn/Frank-Star-fn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
