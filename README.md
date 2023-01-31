@@ -25,7 +25,7 @@ Algorithm Competition
 <br>
 算法竞赛
 
-## 我的常用社交媒体账号
+## 我的常用社交账号
 
 github：https://github.com/Frank-Star-fn
 
