@@ -8,7 +8,7 @@
 🌱 I’m currently studying computer science.
 
 ## Research/learning directions
-Computer Vision(Image Segmentation, Object Detection, Image Classification, Attention Mechanism, etc)
+Computer Vision(Including Image Segmentation, Object Detection, Image Classification, Attention Mechanism, Diffusion Model, Image Coloring, etc)
 <br>
 Algorithm Competition
 
@@ -21,7 +21,7 @@ Algorithm Competition
 🌱 目前正在学习计算机科学
 
 ## 研究/学习方向
-计算机视觉(图像分割，目标检测，图像分类，注意力机制等)
+计算机视觉(包括图像分割，目标检测，图像分类，注意力机制，扩散模型，图像着色等)
 <br>
 算法竞赛
 
