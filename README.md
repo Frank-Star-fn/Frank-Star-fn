@@ -8,7 +8,7 @@
 🌱 I’m currently studying computer science.
 
 ## Research/learning directions
-Computer Vision(Including Image Segmentation, Object Detection, Image Classification, Attention Mechanism, Diffusion Model, Image Coloring, etc)
+Computer Vision(Including Image Segmentation, Object Detection, Image Classification, Attention Mechanism, Diffusion Model, Image Colorization, etc)
 <br>
 Algorithm Competition
 
