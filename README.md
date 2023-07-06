@@ -1,5 +1,4 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=Frank-Star-fn&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![stats](https://github-readme-stats.vercel.app/api?username=Frank-Star-fn&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
 👋 Hi, I’m @Frank-Star-fn. Nice to meet you in GitHub!
 <br>
