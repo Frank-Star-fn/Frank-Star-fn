@@ -9,6 +9,8 @@
 ## Research/learning directions
 Computer Vision(Including Image Segmentation, Object Detection, Image Classification, Attention Mechanism, Diffusion Model, Image Colorization, etc)
 <br>
+Machine Learning and Deep Learning
+<br>
 Algorithm Competition
 
 <hr>
@@ -21,6 +23,8 @@ Algorithm Competition
 
 ## 研究/学习方向
 计算机视觉(包括图像分割，目标检测，图像分类，注意力机制，扩散模型，图像着色等)
+<br>
+机器学习与深度学习
 <br>
 算法竞赛
 
