@@ -30,9 +30,9 @@ Algorithm Competition
 
 ## 我的常用社交账号
 
-github：https://github.com/Frank-Star-fn
+github：[Frank-Star-fn](https://github.com/Frank-Star-fn)
 
-CSDN：https://blog.csdn.net/weixin_51937688
+CSDN：[Frank_Star](https://blog.csdn.net/weixin_51937688)
 
 b站：https://space.bilibili.com/102536071
 
