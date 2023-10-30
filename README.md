@@ -9,7 +9,7 @@
 ## Research/learning directions
 Computer Vision(Including Image Segmentation, Object Detection, Image Classification, Attention Mechanism, Diffusion Model, Image Inpainting, etc)
 <br>
-Machine Learning and Deep Learning
+Machine Learning and Deep Learning(including trajectory prediction and other directions)
 <br>
 Algorithm Competition
 
