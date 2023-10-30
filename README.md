@@ -34,7 +34,7 @@ github：[Frank-Star-fn](https://github.com/Frank-Star-fn)
 
 CSDN：[Frank_Star](https://blog.csdn.net/weixin_51937688)
 
-b站：https://space.bilibili.com/102536071
+b站：[极乐君主](https://space.bilibili.com/102536071)
 
 <!---
 Frank-Star-fn/Frank-Star-fn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
