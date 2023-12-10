@@ -32,7 +32,7 @@ Algorithm Competition
 
 github：[Frank-Star-fn](https://github.com/Frank-Star-fn)
 
-CSDN：[Frank_Star](https://blog.csdn.net/weixin_51937688)
+CSDN：[极乐君主](https://blog.csdn.net/weixin_51937688)
 
 b站：[极乐君主](https://space.bilibili.com/102536071)
 
