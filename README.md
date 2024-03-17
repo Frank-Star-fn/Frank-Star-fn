@@ -4,10 +4,10 @@
 <br>
 👀 I enjoy programming and exploring new things.
 <br>
-🌱 I’m currently studying computer science.
+🌱 I’m currently studying Computer Science and Artificial Intelligence.
 
-## Research/learning directions
-Computer Vision(Including Image Segmentation, Object Detection, Image Classification, Attention Mechanism, Diffusion Model, Image Inpainting, etc)
+## Research/Learning Directions
+Computer Vision(Including Image Segmentation, Diffusion Model, Attention Mechanism, Image Inpainting, etc.)
 <br>
 Machine Learning and Deep Learning(including trajectory prediction and other directions)
 <br>
@@ -15,14 +15,14 @@ Algorithm Competition
 
 <hr>
 
-👋 你好，我是 @Frank Star fn。很高兴有缘与你在github相遇!
+👋 你好，我是 @Frank Star fn。很高兴有缘与你在Github相遇!
 <br>
-👀 我乐于编程和探索新事物
+👀 我乐于编程和探索新事物。
 <br>
-🌱 目前正在学习计算机科学
+🌱 目前正在学习计算机科学和人工智能。
 
 ## 研究/学习方向
-计算机视觉(包括图像分割、目标检测、图像分类、注意力机制、扩散模型、图像修复等方向)
+计算机视觉(包括图像分割、扩散模型、注意力机制、图像修复等方向)
 <br>
 机器学习与深度学习(包括轨迹预测等方向)
 <br>
@@ -30,11 +30,11 @@ Algorithm Competition
 
 ## 我的常用社交账号
 
-github：[Frank-Star-fn](https://github.com/Frank-Star-fn)
+Github：[Frank-Star-fn](https://github.com/Frank-Star-fn)
+
+B站：[极乐君主](https://space.bilibili.com/102536071)
 
 CSDN：[极乐君主](https://blog.csdn.net/weixin_51937688)
-
-b站：[极乐君主](https://space.bilibili.com/102536071)
 
 <!---
 Frank-Star-fn/Frank-Star-fn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
