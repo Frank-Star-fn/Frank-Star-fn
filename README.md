@@ -9,9 +9,11 @@
 ## Research/Learning Directions
 Computer Vision(Including Image Segmentation, Diffusion Model, Attention Mechanism, Image Inpainting, etc.)
 <br>
-Machine Learning and Deep Learning(including trajectory prediction and other directions)
+Machine Learning and Deep Learning(including Trajectory Prediction, Time Series Prediction, etc.)
 <br>
 Algorithm Competition
+<br>
+Android development
 
 <hr>
 
@@ -24,9 +26,11 @@ Algorithm Competition
 ## 研究/学习方向
 计算机视觉(包括图像分割、扩散模型、注意力机制、图像修复等方向)
 <br>
-机器学习与深度学习(包括轨迹预测等方向)
+机器学习与深度学习(包括轨迹预测、时序预测等方向)
 <br>
 算法竞赛
+<br>
+Android开发
 
 ## 我的常用社交账号
 
