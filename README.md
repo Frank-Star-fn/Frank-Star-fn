@@ -13,7 +13,7 @@ Machine Learning and Deep Learning(including Trajectory Prediction, Time Series 
 <br>
 Algorithm Competition
 <br>
-Android development
+Android Development
 
 <hr>
 
