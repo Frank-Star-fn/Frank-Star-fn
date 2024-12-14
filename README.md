@@ -10,7 +10,7 @@
 - Computer Vision(Including Image Segmentation, Diffusion Model, Attention Mechanism, Image Inpainting, etc.)
 - Machine Learning and Deep Learning(including Trajectory Prediction, Time Series Prediction, etc.)
 - Algorithm Competition
-- Android Development and Front-end Development
+- Mobile Development and Front-end Development
 
 <hr>
 
@@ -24,7 +24,7 @@
 - 计算机视觉(包括图像分割、扩散模型、注意力机制、图像修复等方向)
 - 机器学习与深度学习(包括轨迹预测、时序预测等方向)
 - 算法竞赛
-- Android开发和前端开发
+- 移动端开发，前端开发
 
 ## 我的常用社交账号
 - Github：[Frank-Star-fn](https://github.com/Frank-Star-fn)
