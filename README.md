@@ -8,7 +8,7 @@
 
 ## Research/Learning Directions
 - Computer Vision(Including Image Segmentation, Diffusion Model, Attention Mechanism, Image Inpainting, etc.)
-- Machine Learning and Deep Learning(including Trajectory Prediction, Time Series Prediction, etc.)
+- Machine Learning and Deep Learning(including Trajectory Prediction, Trajectory Anomaly Detection, etc.)
 - Algorithm Competition
 - Mobile Development and Front-end Development
 
@@ -22,7 +22,7 @@
 
 ## 研究/学习方向
 - 计算机视觉(包括图像分割、扩散模型、注意力机制、图像修复等方向)
-- 机器学习与深度学习(包括轨迹预测、时序预测等方向)
+- 机器学习与深度学习(包括轨迹预测、轨迹异常检测等方向)
 - 算法竞赛
 - 移动端开发，前端开发
 
